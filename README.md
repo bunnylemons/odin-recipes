@@ -14,8 +14,8 @@ web design and Git skills thus far.
 ## ROADMAP:
 
 - [X] Basic initial scructure.
-- [] Create webpage for spaghetti and meatballs recipe.
-- [] Link to recipe from index file.
+- [X] Create webpage for spaghetti and meatballs recipe.
+- [X] Link to recipe from index file.
 - [] Add image(s) of spaghetti and meatballs.
 - [] List description and ingredients of recipe.
 - [] List steps of recipe.
