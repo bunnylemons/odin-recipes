@@ -34,7 +34,7 @@ web design and Git skills thus far.
 
 Val - [@bunnylemons](https://twitter.com/bunnylemons) - bunnylemonbars@gmail.com
 
-Project Link: [https://github.com/bunnylemons/odin-recipes]
+Project Link: (https://github.com/bunnylemons/odin-recipes)
 
 <p align="right">(<a href=#readme-top>Return To Top</a>)</p>
 
