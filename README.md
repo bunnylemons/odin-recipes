@@ -18,7 +18,7 @@ the purpose of testing and assesing my web design and Git skills thus far.
 - [x] Link to recipe from index file.
 - [x] Add image(s) of spaghetti and meatballs.
 - [x] List description and ingredients of recipe.
-- [] List steps of recipe.
+- [x] List steps of recipe.
 - [] Add recipe for chocolate chip cookies, repeating above steps.
 - [] Add recipe for French omelette, repeating above steps.
 
