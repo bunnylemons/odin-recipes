@@ -16,8 +16,8 @@ web design and Git skills thus far.
 - [X] Basic initial scructure.
 - [X] Create webpage for spaghetti and meatballs recipe.
 - [X] Link to recipe from index file.
-- [] Add image(s) of spaghetti and meatballs.
-- [] List description and ingredients of recipe.
+- [X] Add image(s) of spaghetti and meatballs.
+- [x] List description and ingredients of recipe.
 - [] List steps of recipe.
 - [] Add recipe for chocolate chip cookies, repeating above steps.
 - [] Add recipe for French omelette, repeating above steps.
