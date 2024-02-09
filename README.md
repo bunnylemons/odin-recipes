@@ -1,7 +1,7 @@
 # odin-recipes
 
-This is a project I created for The Odin Project, which is a recipe website with the purpose of testing and assesing my
-web design and Git skills thus far.
+This is a project I created for The Odin Project, which is a recipe website with
+the purpose of testing and assesing my web design and Git skills thus far.
 
 <p align="right">(<a href=#readme-top>Return To Top</a>)</p>
 
@@ -13,10 +13,10 @@ web design and Git skills thus far.
 
 ## ROADMAP:
 
-- [X] Basic initial scructure.
-- [X] Create webpage for spaghetti and meatballs recipe.
-- [X] Link to recipe from index file.
-- [X] Add image(s) of spaghetti and meatballs.
+- [x] Basic initial scructure.
+- [x] Create webpage for spaghetti and meatballs recipe.
+- [x] Link to recipe from index file.
+- [x] Add image(s) of spaghetti and meatballs.
 - [x] List description and ingredients of recipe.
 - [] List steps of recipe.
 - [] Add recipe for chocolate chip cookies, repeating above steps.
