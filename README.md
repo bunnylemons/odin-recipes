@@ -3,13 +3,13 @@
 This is a project I created for The Odin Project, which is a recipe website with
 the purpose of testing and assesing my web design and Git skills thus far.
 
-<p align="right">(<a href=#readme-top>Return To Top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## HOW IT'S MADE:
 
 **Built With:** HTML5.
 
-<p align="right">(<a href=#readme-top>Return To Top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ROADMAP:
 
@@ -22,21 +22,21 @@ the purpose of testing and assesing my web design and Git skills thus far.
 - [] Add recipe for chocolate chip cookies, repeating above steps.
 - [] Add recipe for French omelette, repeating above steps.
 
-<p align="right">(<a href=#readme-top>Return To Top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## LESSONS LEARNED:
 
 [To be added when project is completed.]
 
-<p align="right">(<a href=#readme-top>Return To Top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## CONTACT ME:
 
-Val - [@bunnylemons](https://twitter.com/bunnylemons) - bunnylemonbars@gmail.com
+Val - [@bunnylemonss](https://twitter.com/bunnylemonss) - bunnylemonbars@gmail.com
 
 Project Link: (https://github.com/bunnylemons/odin-recipes)
 
-<p align="right">(<a href=#readme-top>Return To Top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ACKNOWLEDGEMENTS:
 
@@ -44,4 +44,4 @@ Project Link: (https://github.com/bunnylemons/odin-recipes)
 
 [All Recipes] (https://www.allrecipes.com)
 
-<p align="right">(<a href=#readme-top>Return To Top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
